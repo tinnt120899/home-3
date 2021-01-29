@@ -6,7 +6,7 @@ SnowStorm JS plugin created by Scott Schiller. http://www.schillmania.com/projec
 // The below settings are optional (and are the default in many cases). The plugin works great out of the box so ignore this unless you're looking to customize!
 snowStorm.excludeMobile = true;
 snowStorm.followMouse = false;
-snowStorm.snowColor = '#99ccff';   // blue-ish snow!?
+snowStorm.snowColor = '#fed666';   // blue-ish snow!?
 // snowStorm.snowColor = '#ffffff';   // white snow
 snowStorm.flakesMaxActive = 480;    // show more snow on screen at once
 
